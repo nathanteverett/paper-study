@@ -1,0 +1,7 @@
+node_modules
+dist
+demo
+src-tauri/target
+src-tauri/gen/schemas
+.claude
+*.log
